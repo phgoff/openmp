@@ -1,7 +1,7 @@
 #include <omp.h>
 #include <stdio.h>
 #include<conio.h>
-#define NUMBER 100
+#define NUMBER 1000000
 double alpha(){
 	int i; double a=0.0;
 	for (i=0; i<NUMBER; i++)
